@@ -1,0 +1,2 @@
+(this["webpackJsonp@uniswap/interface"]=this["webpackJsonp@uniswap/interface"]||[]).push([[55],{2071:function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return c}));var i=e(0);function c(){return Object(i.jsx)("div",{children:"uniswap wallet pretty cool"})}}}]);
+//# sourceMappingURL=55.7905b12b.chunk.js.map
